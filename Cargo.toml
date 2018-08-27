@@ -1,0 +1,8 @@
+[package]
+name = "pbkdf2_blake2b"
+version = "0.0.1"
+authors = ["hello@organism.ai"]
+
+[dependencies]
+blake2-rfc = "0.2"
+subtle = "0.7.0"
