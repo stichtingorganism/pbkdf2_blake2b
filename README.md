@@ -1,1 +1,5 @@
-# pbkdf2_blake2b
+# pbkdf2 with blake2b
+
+DO NOT USE !!!
+
+
